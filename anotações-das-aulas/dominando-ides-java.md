@@ -16,5 +16,3 @@
 	 ↳ é para dispositivos móveis e embarcados
 - O Java tem a versão gratuita (OpenJDK) e a versão paga (JDK Oracle)
 - As versões LTS da OpenJDK são as versões finais, e são lançadas, geralmente, uma a cada quatro anos
-
-### ‣Visão geral da Linguagem de Programação Java e sua Plataforma
