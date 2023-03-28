@@ -29,20 +29,27 @@
     - nome da classe mesmo nome do arquivo
     
     - começar em maiúsculo o nome do arquivo .java, se composto, a primeira letra de cada palavra em maiúsculo `Calculadora.java CalculadoCientifica.java`.
-  
-  -   
-  - 
-    
-    - se o nome da variável for composto, a partir da segunda palavra a primeira letra dever se maiúscula (nome dessa prática "camelCase"
-    
-    - variável toda maiúscula não sofrerá alteração e é precedida da palavra `final` antes da declaração do tipo:
       
-      ```java
-      final String BR = "Brasil"
-      ```
+      
+
+- ### Tipos e variáveis
+  
+  - se o nome da variável for composto, a partir da segunda palavra a primeira letra dever se maiúscula (nome dessa prática "camelCase"
+  
+  - variável toda maiúscula não sofrerá alteração e é precedida da palavra `final` antes da declaração do tipo:
     
-    - nome de método (função) no infinitivo
+    ```java
+    final String BR = "Brasil"
+    ```
+  
+  - nome de método (função) no infinitivo
   
   - Tipo primitivos Java: int, byte, short, long, float, double, boolean e char
+
+
+
+- ### Operadores
+  
+  - 
 
         
