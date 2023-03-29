@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.david.sintaxejava.smarttv.Usuario",
+            "projectName": "codigos-das-aulas_e23ab7b5"
+        },
+        {
+            "type": "java",
             "name": "BoletimEstudantil",
             "request": "launch",
             "mainClass": "BoletimEstudantil",
