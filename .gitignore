@@ -1,2 +1,2 @@
-#ignorae pasta do vs code
-.vscode
+# ignor a pasta do vs code
+*.vscode
